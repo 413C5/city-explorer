@@ -1,3 +1,13 @@
+# City Explorer App
+
+City Explorer is an app for searching city data globally, powered by the [CountriesNow API](https://countriesnow.space/api/v0.1/countries/population/cities). Users can input a country and city to find relevant information. The interface shows total matching records and displays results in a table format. It works for country, city, or both criteria searches, with a message for no matches.
+
+# Try out this app:
+
+You can experience the app by clicking [this link](https://city-explorer.onrender.com).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
