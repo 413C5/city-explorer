@@ -4,7 +4,7 @@ City Explorer is an app for searching city data globally, powered by the [Countr
 
 # Try out this app:
 
-You can experience the app by clicking [this link](https://city-explorer.onrender.com).
+You can experience the app by clicking [this link](https://city-explorer-fjkp.onrender.com).
 
 
 
